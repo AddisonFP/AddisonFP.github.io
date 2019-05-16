@@ -1,5 +1,5 @@
-cd AddisonFP.github.io
-echo "Addison Powell's Programming Portfolio" > index.html
-git add --all
-git commit -m "Initial Commit"
-git push -u origin master
+$ cd AddisonFP.github.io
+$ echo "Addison Powell's Programming Portfolio" > index.html
+$ git add --all
+$ git commit -m "Initial Commit"
+$ git push -u origin master
