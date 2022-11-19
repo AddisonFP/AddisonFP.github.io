@@ -1,5 +1,4 @@
 # Welcome to Addison Powell's Programming 1 Portfolio
-##### 2018-2019
+##### 2018-2022
 ##### Contact me @ addisonfpowell@gmail.com
-##### Achieved State certification in Processing and Python
-## Tron Lighcycle Game (group project)
+##### Python, C++, and Unixshell experience
